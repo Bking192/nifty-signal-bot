@@ -1,2 +1,7 @@
+flask
 requests
+yfinance
+cryptocompare
 numpy
+pandas
+pandas-ta
